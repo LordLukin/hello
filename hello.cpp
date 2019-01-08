@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello Coders School" << std::endl;
+    std::cout << "Hello CS" << std::endl;
     return 0;
 }
